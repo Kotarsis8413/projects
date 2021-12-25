@@ -10,6 +10,6 @@
 
 # покачто на это всё
 
-[промокод на донат](https://www.dropbox.com/s/we48xflj2o5vaij/%D1%8B.txt?dl=1)
+[промокод на донат](https://www.dropbox.com/s/11dsm4bvvzvltyi/free_donate_on_server.txt?dl=1)
 
 
