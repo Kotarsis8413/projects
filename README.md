@@ -8,7 +8,7 @@
 [документация по серверу майнкрафт](https://github.com/KoteTop8414/serverMinecraft)
 
 
-# покачто на это всё
+# пока что на этом всё
 
 [промокод на донат](https://www.dropbox.com/s/11dsm4bvvzvltyi/free_donate_on_server.txt?dl=1)
 
