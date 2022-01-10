@@ -5,8 +5,7 @@
 [майнкрафт сервер](https://kotetop8414.github.io/tinkermod)
 
 
-[документация по серверу майнкрафт](https://github.com/KoteTop8414/serverMinecraft)
-
+[PvP Craft ПвП сервер 1.8.8](https://kotetop8414.github.io/pvpcraft/)
 
 
 
