@@ -20,6 +20,8 @@
 [вся сборка python + калькулятор](https://disk.yandex.ru/d/gfQHVc-1sSb5sg)
 
 
+[программа для поступления в школу PythonKote]()
+
 # пока что на этом всё
 
 [промокод на донат](https://www.dropbox.com/s/11dsm4bvvzvltyi/free_donate_on_server.txt?dl=1)
