@@ -20,7 +20,7 @@
 [вся сборка python + калькулятор](https://disk.yandex.ru/d/gfQHVc-1sSb5sg)
 
 
-[программа для поступления в школу PythonKote]()
+[программа для поступления в школу PythonKote(требуется установленный python)](https://discord.gg/fD2QuF5j?event=93182679901551414)
 
 # пока что на этом всё
 
